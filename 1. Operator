@@ -91,5 +91,5 @@
         System.out.println(tmp & 0b00001111);
         //by and and right shifting, we can retriev the value.  
     }
-    
+  
     }
